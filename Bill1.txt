@@ -1,0 +1,11 @@
+Bill no 1
+
+Date Mon May 04 13:10:51 EEST 2020
+Order no 2
+Table no 2
+
+Ordered products
+fruit salad - 5.5 euro
+fish - 4.6 euro
+
+Total: 10.1 euro
